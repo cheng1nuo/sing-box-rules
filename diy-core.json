@@ -1,0 +1,26 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "type": "logical",
+            "mode": "or",
+            "rules": [
+                {
+                    "package_name": [
+                        "com.nebula.karing", 
+                        "io.nekohasekai.sfa"
+                    ]
+                },
+                {
+                    "process_name": [
+                        "singbox.exe", 
+                        "sing-box.exe", 
+                        "xray.exe", 
+                        "v2ray.exe"
+                    ]
+                }
+            ],
+            "invert": false
+        }
+    ]
+}
