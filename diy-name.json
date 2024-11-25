@@ -117,6 +117,9 @@
                     "process_name": [
                         "AnyDesk.exe",
                         "rustdesk.exe",
+                        "easytier-core.exe",
+                        "RCClient.exe",
+                        "RCService.exe",
                         "r5apex.exe",
                         "leigod.exe",
                         "leishenSdk.exe",
