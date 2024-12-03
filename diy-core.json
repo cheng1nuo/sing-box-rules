@@ -16,7 +16,9 @@
                         "singbox.exe", 
                         "sing-box.exe", 
                         "xray.exe", 
-                        "v2ray.exe"
+                        "v2ray.exe",
+                        "karingService.exe",
+                        "FlClash.exe"
                     ]
                 }
             ],
